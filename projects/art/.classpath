@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" excluding="/" path="art/test/005-annotations/src"/>
+  <classpathentry kind="src" path="art/test/005-annotations/src2"/>
+  <classpathentry kind="src" path="art/test/021-string2/src"/>
+  <classpathentry kind="src" excluding="/" path="art/test/024-illegal-access/src"/>
+  <classpathentry kind="src" path="art/test/024-illegal-access/src2"/>
+  <classpathentry kind="src" path="art/test/026-access/src"/>
+  <classpathentry kind="src" path="art/test/031-class-attributes/src"/>
+  <classpathentry kind="src" path="art/test/042-new-instance/src"/>
+  <classpathentry kind="src" path="art/test/046-reflect/src"/>
+  <classpathentry kind="src" path="art/test/055-enum-performance/src"/>
+  <classpathentry kind="src" path="art/test/064-field-access/src"/>
+  <classpathentry kind="src" excluding="/" path="art/test/075-verification-error/src"/>
+  <classpathentry kind="src" path="art/test/075-verification-error/src2"/>
+  <classpathentry kind="src" path="art/test/082-inline-execute/src"/>
+  <classpathentry kind="src" path="art/test/100-reflect2/src"/>
+  <classpathentry kind="src" path="art/test/300-package-override/src"/>
+  <classpathentry kind="src" path="art/test/435-new-instance/src"/>
+  <classpathentry kind="src" path="art/test/507-referrer/src"/>
+  <classpathentry kind="src" path="art/test/508-referrer-method/src"/>
+  <classpathentry kind="src" excluding="/" path="art/test/536-checker-needs-access-check/src"/>
+  <classpathentry kind="src" path="art/test/536-checker-needs-access-check/src2"/>
+  <classpathentry kind="src" excluding="/" path="art/test/537-checker-inline-and-unverified/src"/>
+  <classpathentry kind="src" path="art/test/537-checker-inline-and-unverified/src2"/>
+  <classpathentry kind="src" path="art/test/542-unresolved-access-check/src"/>
+  <classpathentry kind="src" path="art/test/601-method-access/src"/>
+  <classpathentry kind="src" path="art/test/800-smali/src"/>
+  <classpathentry kind="src" path="art/tools/dexfuzz/src"/>
+
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="output" path="bin"/>
+
+
+</classpath>
