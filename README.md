@@ -1,4 +1,4 @@
-# aosp_eclipse_workspace
+# Eclipse Projects for AOSP
 Multiple Eclipse IDE projects to easily browse through Android source code
 
 
