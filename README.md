@@ -7,7 +7,7 @@ Multiple Eclipse IDE projects to easily browse through Android source code
 
 1. It is assumed that you have already checked out Android source from http://source.android.com
 2. Run `./envsetup.sh <base_aosp_path>` to replace relevant path for your system. 
-`Eg: ./envsetup.sh /Volumes/android/src`
+`Eg: ./envsetup.sh /Volumes/android/src`. If you want to do it manually, then just replace `androidSrcPath` string in all `.project` files. 
 3. Run Eclipse and create a new workspace. Disable **Build Automatically** in Eclipse to avoid crashes.
 4. Import all or required eclipse projects from the `projects` folder into your Eclipse workspace directly. You can either **copy** the projects into your workspace or keep it as-is. 
 
